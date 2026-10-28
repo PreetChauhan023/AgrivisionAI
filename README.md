@@ -145,3 +145,6 @@ The image pipeline:
 - Dataset generation is cached with `@st.cache_data`
 - CSV download available on prediction, soil analysis, and dataset pages
 - No external database required — everything runs locally with CSV files
+## 🌐 Live Demo
+
+**Try it here: [agrivisionai-023.streamlit.app](https://agrivisionai-023.streamlit.app/)**
